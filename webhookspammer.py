@@ -2,7 +2,7 @@ import requests
 import time
 
 loop = "Y"
-webhook = "https://discord.com/api/webhooks/1165572508636938330/TwRfVBqSTcacIv-qxS0lfKifnr9rDY62_jaeFPkEzGSbMIlPVeNJhCGz15BO6Tcv5aBM"
+webhook = "" #enter your webhook here
 
 text = input("Enter text to spam: ")
 
